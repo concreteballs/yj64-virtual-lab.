@@ -1,0 +1,4 @@
+YJ-64 GitHub write-access diagnostic
+Repository: concreteballs/yj64-clean-bial2modFun5
+Purpose: verify that ChatGPT Codex Connector can write to this repository.
+No application source code or build configuration is modified.
